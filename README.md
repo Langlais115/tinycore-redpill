@@ -21,7 +21,9 @@ A normal build process would start with :
 
 ### 2. Boot tinycore
 
-### 3. ssh to your booted loader or just open the desktop terminal 
+### 3. ssh to your booted loader or just open the desktop terminal
+
+* Hint: Default ssh user: tc / password: P@ssw0rd
 
 ### 4. Bring over your json files (`global_config.json`, `custom_config.json`, `user_config.json`)
 
